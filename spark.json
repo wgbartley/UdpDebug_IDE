@@ -1,0 +1,7 @@
+{
+	name: "UdpDebug",
+	author: "Garrett Bartley <wgb@wgb.me>",
+	version: "0.0.0",
+	license: "MIT",
+	description: "Send UDP messages to a local broadcast IP address for easier remote debugging"
+}
